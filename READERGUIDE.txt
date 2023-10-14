@@ -1,6 +1,6 @@
 Data_Processing.m - The MATLAB file used to convert the tensorflow training output into graphs (there are built-in ways to do this that I didn't feel like looking up)
 Final Poster.pdf - A poster containing a summary of the project
 READERGUIDE.txt - this file.
-sign.ipynb
-signDense.ipynb
-signTransfer.ipynb
+sign.ipynb - the Convolutional Neural network version of the ML solution.
+signDense.ipynb - the Dense Neural network version of the ML solution.
+signTransfer.ipynb - an attempt at a transfer learning solution. This code is non-functional.
